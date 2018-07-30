@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EnergyTest</string>
+    <string name="txt_bluetooth_message_string">Estado del bluetooth</string>
+    <string name="button_bluetooth_string">Cambiar estado bluetooth</string>
+    <string name="txt_wifi_message_string">Estado del wifi</string>
+    <string name="button_wifi_string">Cambiar estado wifi</string>
+    <string name="txt_mobile_message_string">Estado de los datos</string>
+    <string name="button_mobile_string">Cambiar estado datos</string>
+</resources>
